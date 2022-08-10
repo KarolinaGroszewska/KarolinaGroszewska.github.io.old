@@ -131,6 +131,3 @@ params:
 
   footer:
     recentPosts: false
-    socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
