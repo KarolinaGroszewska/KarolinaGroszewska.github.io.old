@@ -94,31 +94,40 @@ params:
           GPA: "4.77 out of 4.0"
           date: "2016 - 2020"
           content: |-
-            Valedictorian, Computer Science Award Winner. Developer of Hersey Bookshelf for the ARC
+            Valedictorian, Computer Science Award Winner. Co-Founder of Techettes, an organization encouraging women to pursue opportunities in Computer Science. Founder of KariCode LLC, created to promote outreach of specialized library resources for high schools across the United States. Co-captain of the Debate and Model United Nations Teams.
   leadership:
     enable: true
     items:
-      - title: TBA
-        content: TBA.
-        url: https://example.com
-      - title: TBA
-        content: TBA
-      - title: TBA
-        content: TBA
-        url: "https://example.com"
+      - title: "VandyHacks - President"
+        content: VandyHacks is the oldest Computer Science organization at Vanderbilt that hosts an annual hackathon for students, runs a spring mentorship program, and provides learning opportunities and a community year-round.
+        url: https://vandyhacks.org/
+      - title: "Women in Computing - VP of Programming"
+        content: Women in Computing focuses on creating a hub for students interested in pursuing tech-related ventures. I have organized and spoken at events including career nights, resume review sessions, and career panels with professionals. 
+      - title: "V:Pog - Recruitment Chair"
+        content: As the founding VP and current recruitment chair, I focus on finding talent for this new organization and teaching technical skills to new members. I have led a workshop on basic GitHub skills and developed functionality for our game, Baby Bear Summer Camp.
 
   projects:
     enable: true
     items:
-      - title: TBA
-        content: TBA
-        image: /images/projects/profile.png
-        featured:
-          name: TBA
-          link: "https://example.com"
+      - title: Atendi
+        content: |-
+          React Native. Atendi is a mobile application I have begun developing with my friends for StudioV, a women's workout community. The goal of the application is to improve attendance tracking by sending location-based push notifications to registered members.
+      - title: SpotifyMatched
+        content: React, Flask, PostgreSQL. Web application allowing Vanguard crew to find other users with similar music tastes. Uses the Spotify API to find similar artists and tracks and calculates a match percentage. I spearheaded the development of the React frontend and work extensively on testing and connections to the Flask backend.
+      - title: Baby Bear Summer Camp
+        content: Unity. A strategic world builder and management simulator centered around creating a welcoming camp for young bears, created by V:Pog during our first year as an organization.
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
+            url: https://github.com/KarolinaGroszewska/BabyBearSummerCamp
+      - title: Soba
+        content: React, MongoDB. Social platform that attempts to match students with dormitories based on their interests and currently considered roommates. Uses current user-generated housing statistics to determine whether students have access to a housing option through a percentage based-system, shows the amenities, and posts current and past resident reviews. This project won second-place in the full-stack development category at UA Innovate.
+        links:
+          - icon: fab fa-github
+            url: https://github.com/kyleburgess2025/soba
+      - title: SAC Sign-In
+        content: Swift, Firebase. Created for the Sexual Assault Center in Nashville, this iPad-native application logs incoming patient information, and then stores that information in secure servers for the staff to access. Started as a part of the Vanderbilt University's Summer VandyHacks 2020.
+      - title: Brewed Awakening 
+        content: Swift, CoreData. A point-of-sales system for my high school's coffee shop, which is run by the Career and Life Skills department for students with disabilities. A more disability friendly version of Square with larger display boxes, displaying exact change in cash with images of coins and bank notes, and management tools to facilitate the baristas' and other staff interactions with the app.
 
   #Contact
   contact:
