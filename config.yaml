@@ -22,14 +22,14 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Kari."
-    subtitle: "I'm a student and developer."
-    content: "Junior at Vanderbilt studying Computer Science and Economics. Passionate about projects that make lives easier."
-    image: "themes/hugo-profile/images/IMG_4615.jpg"
+    title: "Kari!"
+    subtitle: "I am a developer, leader, and student"
+    content: "Current junior at Vanderbilt studying Computer Science and Economics. Passionate about projects that make lives easier and events that break through barriers to tech."
+    image: /images/me.jpg
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "Resume_KarolinaGroszewska.pdf"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -38,42 +38,42 @@ params:
           url: "https://www.linkedin.com/in/karolina-groszewska/"
   about:
     enable: true
-    title: "About Me"
+    title: "Recent Skills"
     image: "/images/me.png"
     content: |-
-      Software developer passionate about web and mobile applications to improve client experiences. Believes in the importance of diversity in tech and removing barriers to entry for all. 
+      I have 5+ years of development experience on a myriad of projects and for multiple clients. I make sure every project I work on has the ability to make the world a slightly better place.
     skills:
       enable: true
-      title: "Some of the skills I have recently used"
       items:
-        - "React Native"
-        - "Unity"
-        - "Angular"
-        - "React"
-        - "Swift"
-        - "Node"
+        - "React Native [Atendi]"
+        - "Unity [BBSC]"
+        - "Angular [Team AiR]"
+        - "Java [Team AiR]"
+        - "React [Intern Project]"
+        - "Flask [Intern Project]"
   experience:
     enable: true
     items:
       - job: "Application Development Intern"
         company: "Vanguard"
         date: "Jun 2022 - Present"
-        content: "I am currently working as an application development intern at Vanguard in Malvern, PA. Throughout my internship I have been a full-stack developer for Personal Advisor Services, working in Java and Angular. I have also completed the intern project, written in React and Flask and utilizing the Spotify API."
+        content: "Throughout my internship I have been a full-stack developer for Personal Advisor Services, working in Java and Angular on improving Client Onboarding Services. I am currently completing a 2-week internship extension based on business need and performance."
 
-      - job: "Software Developer"
-        company: "Test"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+      - job: "Teaching Assistant"
+        company: "VUSE"
+        date: "August 2021 - Present"
+        content: "I am an undergraduate teaching assistant for EECE 2123 - Digital Systems, which is an introductory Electrical Engineering course for Computer Science majors. I am responsible for hosting office hours, assisting students in completing assignments, devising or updating grading rubrics, and grading assignments and examinations."
+
+      - job: "Undergraduate Research Assistant"
+        company: "ISIS"
+        date: "August 2021 - May 2022"
+        content: "I worked on an open-source application called Improving Neighbourhood Safety Through Open Data Collection, which is a project that aims to improve the safety of neighbourhoods in the city of Nashville. I worked on the frontend written Ionic React and the MongoDB database to move the application from development to alpha."
+      
+      - job: "Software Engineering Intern"
+        company: "Normandy"
+        date: "June 2020 - August 2021"
+        content: "I was a summer 2020 and 2021 Intern at Normandy Design Build Remodelling, a local renovation company. I helped improve the efficieny of the company of COVID-19 protocols for hundreds of active construction sites, and modernized their builing code download process."
+      
   education:
       enable: true
       #index: true
