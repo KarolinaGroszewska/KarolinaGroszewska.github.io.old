@@ -1,0 +1,136 @@
+baseURL: https://karolinagroszewska.github.io/
+languageCode: "en-us"
+title: "Kari Groszewska"
+theme: "hugo-profile"
+
+
+Menus:
+  main:
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blogs
+      weight: 1
+
+params:
+  title: "Kari Groszewska"
+  description: Student/Developer
+  theme:
+    disableThemeToggle: true
+    defaultTheme: "dark"
+  
+  hero:
+    enable: true
+    intro: "Hi, my name is"
+    title: "Kari."
+    subtitle: "I'm a student and developer."
+    content: "Junior at Vanderbilt studying Computer Science and Economics. Passionate about projects that make lives easier."
+    image: "themes/hugo-profile/images/IMG_4615.jpg"
+    button:
+      enable: true
+      name: "Resume"
+      url: "#"
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: "https://github.com/KarolinaGroszewska"
+        - icon: fab fa-linkedin
+          url: "https://www.linkedin.com/in/karolina-groszewska/"
+  about:
+    enable: true
+    title: "About Me"
+    image: "/images/me.png"
+    content: |-
+      Software developer passionate about web and mobile applications to improve client experiences. Believes in the importance of diversity in tech and removing barriers to entry for all. 
+    skills:
+      enable: true
+      title: "Some of the skills I have recently used"
+      items:
+        - "React Native"
+        - "Unity"
+        - "Angular"
+        - "React"
+        - "Swift"
+        - "Node"
+  experience:
+    enable: true
+    items:
+      - job: "Application Development Intern"
+        company: "Vanguard"
+        date: "Jun 2022 - Present"
+        content: "I am currently working as an application development intern at Vanguard in Malvern, PA. Throughout my internship I have been a full-stack developer for Personal Advisor Services, working in Java and Angular. I have also completed the intern project, written in React and Flask and utilizing the Spotify API."
+
+      - job: "Software Developer"
+        company: "Test"
+        companyUrl: "https://example.com"
+        date: "Sep 2020 - Dec 2021"
+        featuredLink:
+          enable: true
+          url: "https://example.com"
+        info:
+          enable: true
+          content: I worked as a software developer for more than one year in Amazon.
+        content: |
+          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          - Lead backend developer for a product.
+          - Created a frontend design for a product.
+  education:
+      enable: true
+      #index: true
+      items:
+        - title: "TBA"
+          school:
+            name: "TBA"
+          date: "2020 - 2024"
+          GPA: "3.44 out of 4.0"
+          content: |-
+            I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+            - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+            - Face mask detection using a single convolutional neural network.
+            Extracurricular Activities
+              - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+              - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+
+        - title: "High School"
+          school:
+            name: "TBA"
+            url: "https://example.org"
+          GPA: "TBA"
+          date: "2016 - 2020"
+  leadership:
+    enable: true
+    items:
+      - title: TBA
+        content: TBA.
+        url: https://example.com
+      - title: TBA
+        content: TBA
+      - title: TBA
+        content: TBA
+        url: "https://example.com"
+
+  projects:
+    enable: true
+    items:
+      - title: TBA
+        content: TBA
+        image: /images/projects/profile.png
+        featured:
+          name: TBA
+          link: "https://example.com"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/hugo-profile
+
+  #Contact
+  contact:
+    enable: true
+    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    email: gurusabarisha@gmail.com
+    btnName: Mail me
+
+  footer:
+    recentPosts: false
+    socialNetworks:
+      github: https://github.com
+      linkedin: https://linkedin.com
