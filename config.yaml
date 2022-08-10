@@ -29,7 +29,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "Resume_KarolinaGroszewska.pdf"
+      url: "https://github.com/KarolinaGroszewska/KarolinaGroszewska.github.io/raw/main/Resume_KarolinaGroszewska.pdf"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -78,18 +78,15 @@ params:
       enable: true
       #index: true
       items:
-        - title: "TBA"
+        - title: "BSc in Computer Science, Economics"
           school:
-            name: "TBA"
+            name: "Vanderbilt University"
           date: "2020 - 2024"
           GPA: "3.44 out of 4.0"
           content: |-
-            I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-            - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-            - Face mask detection using a single convolutional neural network.
+            National Merit Scholar at Vanderbilt majoring in Computer Science and Economics and minoring in Soanish
             Extracurricular Activities
-              - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+              - VandyHacks, Women in Computing, Vanderbilt:Programmers of Games, StudioV, Club Water Polo
 
         - title: "High School"
           school:
