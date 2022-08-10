@@ -29,7 +29,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "Resume_KarolinaGroszewska.pdf"
+      url: "https://github.com/KarolinaGroszewska/KarolinaGroszewska.github.io/raw/main/Resume_KarolinaGroszewska.pdf"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -78,25 +78,23 @@ params:
       enable: true
       #index: true
       items:
-        - title: "TBA"
+        - title: "BSc in Computer Science, Economics"
           school:
-            name: "TBA"
+            name: "Vanderbilt University"
           date: "2020 - 2024"
           GPA: "3.44 out of 4.0"
           content: |-
-            I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-            - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-            - Face mask detection using a single convolutional neural network.
+            National Merit Scholar at Vanderbilt majoring in Computer Science and Economics and minoring in Spanish
             Extracurricular Activities
-              - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+              - VandyHacks, Women in Computing, Vanderbilt:Programmers of Games, StudioV, Club Water Polo
 
         - title: "High School"
           school:
-            name: "TBA"
-            url: "https://example.org"
-          GPA: "TBA"
+            name: "John Hersey High School"
+          GPA: "4.77 out of 4.0"
           date: "2016 - 2020"
+          content: |-
+            Valedictorian, Computer Science Award Winner. Developer of Hersey Bookshelf for the ARC
   leadership:
     enable: true
     items:
@@ -126,8 +124,8 @@ params:
   contact:
     enable: true
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
-    btnName: Mail me
+    email: karolina.groszewska@gmail.com
+    btnName: Email Me!
 
   footer:
     recentPosts: false
