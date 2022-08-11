@@ -24,7 +24,7 @@ params:
     intro: "Hi, my name is"
     title: "Kari!"
     subtitle: "I am a developer, leader, and student"
-    content: "Current junior at Vanderbilt studying Computer Science and Economics. Passionate about projects that make lives easier and events that break through barriers to tech."
+    content: "Current junior at Vanderbilt studying Computer Science and Economics. Passionate about projects that make lives easier and events that break through barriers to tech. Outside of development, I enjoy playing board games with family and friends, am training for my first 5k, and love finding new spots to explore wherever I happen to be."
     image: /images/me.jpg
     button:
       enable: true
