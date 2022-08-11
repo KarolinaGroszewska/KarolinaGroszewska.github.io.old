@@ -1,4 +1,5 @@
-# KarolinaGroszewska.github.io
+[See it here](https://karolinagroszewska.github.io/)
+
 
 This is (finally) my personal website! It's an extended resume that also includes occassional blog posts about what I find important to discuss as a college junior, woman in tech, and anything else I happen to be.
 
