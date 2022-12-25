@@ -1,6 +1,6 @@
 ---
 title: "What I wish I did when recruiting, and what I did well"
-date: 2022-09-01T20:05:00+00:00
+date: 2023-01-01T20:05:00+00:00
 draft: true
 author: "Kari"
 tags:
