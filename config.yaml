@@ -57,9 +57,9 @@ params:
     enable: true
     items:
      - job: "TBA"
-        company: "TBA"
-        date: "May 2023 - Present"
-        content: "I will be talking through my recruitment season and releasing my 2023 summer internship location soon!"
+       company: "TBA"
+       date: "May 2023 - Present"
+       content: "I will be talking through my recruitment season and releasing my 2023 summer internship location soon!"
     
       - job: "Application Development Intern"
         company: "Vanguard"
