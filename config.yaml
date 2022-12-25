@@ -23,8 +23,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Kari!"
-    subtitle: "I am a developer, leader, and student"
-    content: "Current junior at Vanderbilt studying Computer Science and Economics. Passionate about projects that make lives easier and events that break through barriers to tech. Outside of development, I enjoy playing board games with family and friends, am training for my first 5k, and love finding new places to explore wherever I happen to be."
+    subtitle: "I am a software developer, leader, and student"
+    content: "As a current junior at Vanderbilt studying Computer Science and Economics, I am passionate about projects that make lives easier and events that break through barriers to tech."
     image: /images/me.jpg
     button:
       enable: true
@@ -41,11 +41,13 @@ params:
     title: "Recent Skills"
     image: "/images/me.png"
     content: |-
-      I have 5+ years of development experience on a myriad of projects and for multiple clients. I make sure every project I work on has the ability to make the world a slightly better place, and enjoy working with others to make things happen
+      I have 6+ years of development experience on a myriad of projects and for multiple clients. I make sure every project I work on has the ability to make the world a slightly better place, and enjoy working with others to make things happen, Having recently reignitied my passion for mobile development, I give every new project my all.
     skills:
       enable: true
       items:
-        - "React Native [Atendi]"
+        - "Swift [Fingertip]"
+        - "SwiftUI [Fingertip]"
+        - "XCTest [Fingertip]"
         - "Unity [BBSC]"
         - "Angular [Team AiR]"
         - "Java [Team AiR]"
@@ -54,6 +56,11 @@ params:
   experience:
     enable: true
     items:
+     - job: "TBA"
+        company: "TBA"
+        date: "May 2023 - Present"
+        content: "I will be talking through my recruitment season and releasing my 2023 summer internship location soon!"
+    
       - job: "Application Development Intern"
         company: "Vanguard"
         date: "Jun 2022 - Present"
@@ -82,11 +89,9 @@ params:
           school:
             name: "Vanderbilt University"
           date: "2020 - 2024"
-          GPA: "3.44 out of 4.0"
+          GPA: "3.46 out of 4.0"
           content: |-
             National Merit Scholar at Vanderbilt majoring in Computer Science and Economics and minoring in Spanish
-            Extracurricular Activities
-              - VandyHacks, Women in Computing, Vanderbilt:Programmers of Games, StudioV, Club Water Polo
 
         - title: "High School"
           school:
@@ -98,17 +103,20 @@ params:
   leadership:
     enable: true
     items:
-      - title: "VandyHacks - President"
-        content: VandyHacks is the oldest Computer Science organization at Vanderbilt that hosts an annual hackathon for students, runs a spring mentorship program, and provides learning opportunities and a community year-round. As Co-President, I am responsible for making all of the decisions to make our organization run smoothly.
+      - title: "VandyHacks - Senior Advisor, Former President"
+        content: VandyHacks is the oldest Computer Science organization at Vanderbilt that hosts an annual hackathon for students, runs a spring mentorship program, and provides learning opportunities and a community year-round. As a Senior Advisor, I am responsible for mentoring the Presidents, Directors, and Members whilst guiding them to create successful events.
         url: https://vandyhacks.org/
-      - title: "Women in Computing - VP of Programming"
-        content: Women in Computing focuses on creating a hub for students interested in pursuing tech-related ventures. I have organized and spoken at events including career nights, resume review sessions, and career panels with professionals. 
+      - title: "Women in Computing - Grace Hopper Coordinator"
+        content: Women in Computing focuses on creating a hub for students interested in pursuing tech-related ventures. This year, I am helping organize scholarships for members of the Vanderbilt community to attend the Grace Hopper Conference. I have organized and spoken at events including career nights, resume review sessions, and career panels. 
       - title: "V:Pog - Recruitment Chair"
         content: As the founding VP and current recruitment chair, I focus on finding talent for this new organization and teaching technical skills to new members. I have led a workshop on basic GitHub skills and developed functionality for our game, Baby Bear Summer Camp.
 
   projects:
     enable: true
     items:
+    - title: Fingertip
+        content: |-
+          SwiftUI and XCTest. Fingertip is an iOS and watchOS passion project which allows for accountable habit tracking with time-blocking, analytics-based updates, and connection-based accountability. 
       - title: Atendi
         content: |-
           React Native. Atendi is a mobile application I have begun developing with my friends for StudioV, a women's workout community. The goal of the application is to improve attendance tracking by sending location-based push notifications to registered members.
@@ -137,4 +145,4 @@ params:
     btnName: Email Me!
 
   footer:
-    recentPosts: false
+    recentPosts: true
