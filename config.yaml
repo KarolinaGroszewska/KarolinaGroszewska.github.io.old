@@ -113,7 +113,7 @@ params:
   projects:
     enable: true
     items:
-    - title: Fingertip
+      - title: Fingertip
         content: |-
           SwiftUI and XCTest. Fingertip is an iOS and watchOS passion project which allows for accountable habit tracking with time-blocking, analytics-based updates, and connection-based accountability. 
       - title: Atendi
