@@ -56,21 +56,21 @@ params:
   experience:
     enable: true
     items:
-       - job: "TBA"
+      - job: "TBA"
         company: "TBA"
         date: "May 2023 - Present"
         content: "I will be talking through my recruitment season and releasing my 2023 summer internship location soon!"
-       - job: "Application Development Intern"
+      - job: "Application Development Intern"
         company: "Vanguard"
         date: "Jun 2022 - Present"
         content: "Throughout my internship I was been a full-stack developer for Personal Advisor Services as a part of team AiR, working in Java and Angular on full-stack improvements to Client Onboarding Services. I also completed a 2-week internship extension based on business need and my performance, where I completed additional user stories ahead of bringing our product to launch."
 
-       - job: "Teaching Assistant"
+      - job: "Teaching Assistant"
         company: "VUSE"
         date: "August 2021 - Present"
         content: "Third-semester undergraduate teaching assistant for EECE 2123 - Digital Systems, which is an introductory Electrical Engineering course for Computer Science, Computer Engineering, and Electrical Engineering majors. I am responsible for hosting office hours, assisting students in completing assignments, devising or updating grading rubrics, and grading assignments and examinations."
 
-       - job: "Undergraduate Research Assistant"
+      - job: "Undergraduate Research Assistant"
         company: "ISIS"
         date: "August 2021 - May 2022"
         content: "I worked on an open-source application, Improving Neighbourhood Safety Through Open Data Collection, which aims to increase access to community-driven safety efforts in the city of Nashville. I worked on the frontend, written Ionic React and the MongoDB database to move this NSF funded project from development to the alpha stage."
