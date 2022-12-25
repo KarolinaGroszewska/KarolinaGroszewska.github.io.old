@@ -16,7 +16,7 @@ toc:
 
 Generally, I have always struggled with the idea of "selling myself" through a one-page PDF document in size 11 Times New Roman font. In high school I had a terrible time with college applications and supplements because I couldn't bring myself to talk well about my accomplishments. They were things I was doing because I liked the other people I was working with, the type of work I was doing, rather than really talking about it. To me, having to write what at the time seemed like humblebraggy text just did not sit right with me. 
 
-It took a while for me to accept that writing a good resume and being able to promote yourself well is just a part of looking for a career/opportunity and as an important of a recruitment skill as acing your behaviorals or polishing those technicals. So the purpose of this is to talk through first how to gain confidence to write about yourself and then how to actually do it well.
+It took a while for me to accept that writing a good resume and being able to promote yourself well is just a part of looking for a career/opportunity. It is also as an important of a recruitment skill as acing your behaviorals or polishing those technicals. So the purpose of this is to talk through first how to gain confidence to write about yourself and then how to actually do it well.
 
 ## Writing Confidence
 
@@ -26,7 +26,7 @@ One of the best things I did my first semester in college was attending a resume
 
 ### Peer Review Sessions
 
-Relying on your peers is one of the best things you can do, especially if those peers are your seniors themselves and have gone through enough iterations of their own resumes. The best one I ever attended was with two VandyHacks members (now alumns) who had sent me the template I still use and had helped me write actual concise descriptions for the now overly beefy resume I had. I decided to now as President run another one for the members since mine was just really invaluable, and the people who got to attend so far had a great experience overall. If you're not in tech spaces that would organize something like this, I would suggest in general making upperclassmen friends and kindly asking. I know now as a junior I wouldn't say no to a resume review if someone asked.
+Relying on your peers is one of the best things you can do, especially if those peers are your seniors themselves and have gone through enough iterations of their own resumes. The best one I ever attended was with two VandyHacks members (now alumns) who had sent me the template I still use. They had helped me write actual concise descriptions for the now overly beefy resume I had. I decided to now as organization President to run another session for the members since mine was really invaluable, and the people who got to attend so far had a great experience overall. If you're not in tech spaces that would organize something like this, I would suggest in general making upperclassmen friends and kindly asking. I know now as a junior I wouldn't say no to a resume review if someone asked.
 
 ### Building, Then Knowing Your Stregths
 
