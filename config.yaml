@@ -56,10 +56,10 @@ params:
   experience:
     enable: true
     items:
-      - job: "TBA"
-        company: "TBA"
+      - job: "Incoming Software Automationn Engineering Intern"
+        company: "Apple"
         date: "May 2023 - Present"
-        content: "I will be talking through my recruitment season and releasing my 2023 summer internship location soon!"
+        content: "Joining Watch Fitness, and could not be more excited about this opportunity!"
       - job: "Application Development Intern"
         company: "Vanguard"
         date: "Jun 2022 - Present"
@@ -88,7 +88,7 @@ params:
           school:
             name: "Vanderbilt University"
           date: "2020 - 2024"
-          GPA: "3.46 out of 4.0"
+          GPA: "3.47 out of 4.0"
           content: |-
             National Merit Scholar at Vanderbilt majoring in Computer Science and Economics and minoring in Spanish
 
