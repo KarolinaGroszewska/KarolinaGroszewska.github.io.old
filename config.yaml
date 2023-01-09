@@ -60,6 +60,12 @@ params:
         company: "Apple"
         date: "May 2023 - Present"
         content: "Joining Watch Fitness, and could not be more excited about this opportunity!"
+        
+      - job: "Hackathon Coach"
+        company: "MLH"
+        date: "January 2023 - Present"
+        content: "Currently in training! As a coach, I am responsible for aiding hackathons nationwide! Traveling to events, I offer guidance to organizers and help events thrive. I also have the opportunity to run technical and non-technical workshops for the hackathon community."
+        
       - job: "Application Development Intern"
         company: "Vanguard"
         date: "Jun 2022 - Present"
