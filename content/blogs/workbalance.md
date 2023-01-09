@@ -1,6 +1,6 @@
 ---
 title: "Helping Yourself"
-date: 2022-12-30T20:05:00+00:00
+date: 2023-01-09T20:05:00+00:00
 draft: false
 author: "Kari"
 tags:
@@ -15,7 +15,7 @@ toc:
 
 It has been a really long time since I have gotten the chance to sit down and write a bit about my experiences. To be completely honest, I had the most difficult things in my life all coalesce together into one really excruciating period of time, and it took me a long time to recover. 
 
-Coming to you from my winter break, I am here to provide some tips and tricks for surviving the tech world when it sometimes feels like you're not welcome in it. 
+Coming to you from right after winter break, I am here to provide some tips and tricks for surviving the tech world when it sometimes feels like you're not welcome in it. 
 
 ### Find like-minded people
 A great community of individuals from different backgrounds, interests, or skills that I cared about  were able to provide me a lot of comfort and solace during the difficult times. Their aid included professional advice (pushing me to apply to opportunities I didn't believe I was going to get, or helping me prep technically), serving as resources (offering to attend an event with me I was not super sold on attending myself, or listening to my pros and cons when I had difficult choices to make), and even aiding in self–care (going out to coffee, cooking a meal together, or providing me two rides to the airport because I forgot to grab my passport – thank you again). These people made any challenge I was dealing with significantly easier, and they were often found in the most unlikely of places. 
