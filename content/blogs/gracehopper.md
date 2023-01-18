@@ -1,5 +1,5 @@
 ---
-title: "Getting involved"
+title: "What is the Grace Hopper Conference?"
 date: 2023-01-18T20:05:00+00:00
 draft: true
 author: "Kari"
