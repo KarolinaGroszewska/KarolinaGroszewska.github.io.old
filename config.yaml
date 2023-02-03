@@ -45,8 +45,7 @@ params:
     skills:
       enable: true
       items:
-        - "Swift Storyboard [Fingertip]"
-        - "SwiftUI [Fingertip]"
+        - "SwiftUI [Fingertip, Studio V]"
         - "XCTest [Fingertip]"
         - "Unity [BBSC]"
         - "Angular [Team AiR]"
@@ -122,9 +121,9 @@ params:
       - title: Fingertip
         content: |-
           SwiftUI and XCTest. Fingertip is an iOS and watchOS passion project which allows for accountable habit tracking with time-blocking, analytics-based updates, and connection-based accountability. 
-      - title: Atendi
+      - title: Studio V
         content: |-
-          React Native. Atendi is a mobile application I have begun developing with my friends for StudioV, a women's workout community. The goal of the application is to improve attendance tracking by sending location-based push notifications to registered members.
+          SwiftUI, Firebase, XCTest. Studio V is a mobile application for a women's workout community. The goal of the application is to improve event management by creating a custom attendance, registration, and travel system.
       - title: SpotifyMatched
         content: React, Flask, PostgreSQL. Web application allowing Vanguard crew to find other users with similar music tastes. Uses the Spotify API to find similar artists and tracks and calculates a match percentage. I spearheaded the development of the React frontend and work extensively on testing and connections to the Flask backend.
       - title: Baby Bear Summer Camp
@@ -146,7 +145,7 @@ params:
   contact:
     enable: true
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: karolina.groszewska@gmail.com
+    email: karolina.groszewska[at]gmail.com
     btnName: Email Me!
 
   footer:
