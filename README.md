@@ -6,6 +6,4 @@ This is (finally) my personal website! It's an extended resume that also include
 
 Upcoming blog post ideas include:
 - Creating meaningful personal projects
-- Code for Good
-- My experience attending GHC 2022 :D
 - Semester project/life updates
